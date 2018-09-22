@@ -1,0 +1,8 @@
+.Python
+.pytest_cache
+*.pyc
+*.sw*
+bin/
+include/
+lib/
+pip-selfcheck.json
